@@ -20,8 +20,8 @@
     "lint": "node --run lint:prettier && node --run lint:types",
     "lint:prettier": "prettier --check .",
     "lint:types": "tsc --noEmit",
-    "tdd": "node --test --import tsx --watch '**/*.test.ts'",
-    "test": "node --test --import tsx '**/*.test.ts'"
+    "tdd": "tsx --test --watch",
+    "test": "tsx --test"
   },
   "keywords": [],
   "license": "MIT",
