@@ -1,6 +1,6 @@
 {
-  "name": "node-typescript-package",
-  "version": "0.0.0",
+  "name": "@danielpza/test-npm-publish-workflow",
+  "version": "0.0.1",
   "description": "Description",
   "type": "module",
   "exports": {
