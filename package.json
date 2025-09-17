@@ -12,6 +12,9 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "url": "https://github.com/danielpza/test-npm-publish-workflow"
+  },
   "scripts": {
     "build": "tsc",
     "prepack": "node --run build",
