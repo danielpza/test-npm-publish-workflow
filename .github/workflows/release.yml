@@ -25,4 +25,4 @@ jobs:
       - run: pnpm install
       - run: ./scripts/release.sh
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
