@@ -24,3 +24,5 @@ jobs:
           registry-url: "https://registry.npmjs.org"
       - run: pnpm install
       - run: ./scripts/release.sh
+        env:
+          GH_TOKEN: ${{ github.token }}
