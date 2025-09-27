@@ -1,3 +1,7 @@
+## 0.2.5 - 2025-09-27
+### Miscellaneous Tasks
+- Set GH_TOKEN in ([b5ba463](b5ba463372ca5cb5370dcefea18a5ebf30abe9de))
+
 ## 0.2.4 - 2025-09-27
 ### Miscellaneous Tasks
 - Fix publish workflow when publishing from tags in ([999b30b](999b30b33a6d4c4f8d2c8cdebcedfdf4f65f8e8e))
