@@ -1,3 +1,7 @@
+## 0.2.3 - 2025-09-27
+### Miscellaneous Tasks
+- Add contents write, remove id-token by @danielpza in ([07aabce](07aabce4bd9c5750b7bee42be4508d63d96011da))
+
 ## 0.2.2 - 2025-09-27
 ### Miscellaneous Tasks
 - Add GH_TOKEN by @danielpza in ([4202d1c](4202d1cd84ddb057176f6ed373bd8f04ed187535))
