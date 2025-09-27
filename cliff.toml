@@ -48,3 +48,8 @@ commit_parsers = [
   { message = "^chore\\(release\\):", skip = true },
   { message = "^chore|^ci", group = "Miscellaneous Tasks" },
 ]
+
+[bump]
+initial_tag = "v0.0.1"
+features_always_bump_minor = true # on v0 releases, bump minor version for features and breaking changes
+breaking_always_bump_major = false # on v0 releases, don't bump to v1 on breaking changes
