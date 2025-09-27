@@ -1,3 +1,7 @@
+## 0.2.2 - 2025-09-27
+### Miscellaneous Tasks
+- Add GH_TOKEN by @danielpza in ([4202d1c](4202d1cd84ddb057176f6ed373bd8f04ed187535))
+
 ## 0.2.1 - 2025-09-27
 ### Miscellaneous Tasks
 - Add release.sh script by @danielpza in ([8c3c0b3](8c3c0b35487c35a5bc1f7a2d719ef87857f3d57f))
