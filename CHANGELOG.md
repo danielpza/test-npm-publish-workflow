@@ -1,3 +1,7 @@
+## 0.2.4 - 2025-09-27
+### Miscellaneous Tasks
+- Fix publish workflow when publishing from tags in ([999b30b](999b30b33a6d4c4f8d2c8cdebcedfdf4f65f8e8e))
+
 ## 0.2.3 - 2025-09-27
 ### Miscellaneous Tasks
 - Add contents write, remove id-token by @danielpza in ([07aabce](07aabce4bd9c5750b7bee42be4508d63d96011da))
